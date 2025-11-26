@@ -1,0 +1,27 @@
+{
+  "name": "cypress-store",
+  "version": "1.0.0",
+  "description": "This repo will be used only for exercise my automated tests personal skills when using Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xJocz/cypress-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xJocz/cypress-store/issues"
+  },
+  "homepage": "https://github.com/xJocz/cypress-store#readme",
+  "devDependencies": {
+    "cypress": "^15.7.0",
+    "cypress-mochawesome-reporter": "^4.0.2",
+    "cypress-multi-reporters": "^2.0.5",
+    "mocha-junit-reporter": "^2.2.1"
+  }
+}
